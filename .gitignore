@@ -1,0 +1,7 @@
+.idea/
+_pycache_
+venv
+testing_dataset/
+training_dataset/
+video3.mp4
+yolov4-tiny-custom_final.weights
