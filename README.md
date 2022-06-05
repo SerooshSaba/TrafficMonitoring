@@ -1,7 +1,9 @@
 # Traffic Monitoring System for Low-end Devices
 
-![Alt Text](https://serooshsaba.github.io/monitor.gif)
 
+<img src="https://serooshsaba.github.io/monitor.gif" width="100%">
+
+<br/><br/>
 
 One problem with neural networks for object-detection is that they require a GPU to run in real-time. But
 this is not possible for many embedded device that do not have a built-in GPU. These devices then
